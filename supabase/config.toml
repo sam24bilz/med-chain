@@ -1,0 +1,4 @@
+project_id = "llhokvrsdwxdwwzufilm"
+
+[functions.hedera-integration]
+verify_jwt = false
